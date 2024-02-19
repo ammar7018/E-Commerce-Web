@@ -1,0 +1,12 @@
+F:\Visual Projects\N-tier\N-tier.Models\bin\Debug\net8.0\N-tier.Models.deps.json
+F:\Visual Projects\N-tier\N-tier.Models\bin\Debug\net8.0\N-tier.Models.dll
+F:\Visual Projects\N-tier\N-tier.Models\bin\Debug\net8.0\N-tier.Models.pdb
+F:\Visual Projects\N-tier\N-tier.Models\obj\Debug\net8.0\N-tier.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Projects\N-tier\N-tier.Models\obj\Debug\net8.0\N-tier.Models.AssemblyInfoInputs.cache
+F:\Visual Projects\N-tier\N-tier.Models\obj\Debug\net8.0\N-tier.Models.AssemblyInfo.cs
+F:\Visual Projects\N-tier\N-tier.Models\obj\Debug\net8.0\N-tier.Models.csproj.CoreCompileInputs.cache
+F:\Visual Projects\N-tier\N-tier.Models\obj\Debug\net8.0\N-tier.Models.dll
+F:\Visual Projects\N-tier\N-tier.Models\obj\Debug\net8.0\refint\N-tier.Models.dll
+F:\Visual Projects\N-tier\N-tier.Models\obj\Debug\net8.0\N-tier.Models.pdb
+F:\Visual Projects\N-tier\N-tier.Models\obj\Debug\net8.0\ref\N-tier.Models.dll
+F:\Visual Projects\N-tier\N-tier.Models\obj\Debug\net8.0\N-tier.Models.csproj.AssemblyReference.cache
