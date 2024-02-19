@@ -1,2 +1,10 @@
 # E-Commerce-Web
- 
+The website, constructed on the robust foundation of Entity Framework Core, offers a sophisticated ORM solution within the .NET ecosystem, ensuring seamless interaction with its database backend. Users are greeted with a suite of authentication features, meticulously designed to provide a secure gateway for logging in and registering, thereby safeguarding access to the platform's functionalities.
+
+Upon successful registration, users are bestowed with distinct roles meticulously tailored to their responsibilities within the system. The "Admin" role, endowed with an array of potent administrative rights and permissions, empowers individuals to oversee and manage various aspects of the platform's operations. Conversely, the "Customer" role, thoughtfully crafted to cater to standard user interactions, ensures a streamlined and personalized experience for every registered user.
+
+Furthermore, the website boasts an expansive repertoire of CRUD operations, meticulously implemented to facilitate seamless data management and manipulation. This suite of functionalities empowers users, irrespective of their assigned roles, to seamlessly create, retrieve, update, and delete data entities within the system's confines, fostering unparalleled usability and flexibility.
+
+In addition to its robust backend functionalities, the website offers an array of advanced features aimed at enriching the user experience. Users can effortlessly upload and associate photos with relevant entities, providing a visual dimension to their interactions. The inclusion of a sophisticated search mechanism enables users to swiftly navigate through extensive lists of items, enhancing accessibility and efficiency. Moreover, the ability to categorize products offers a structured approach to organizing information, further augmenting the platform's usability and user engagement.
+
+In summation, the harmonious integration of Entity Framework Core, meticulous user authentication mechanisms, role-based access control, comprehensive CRUD operations, and advanced features such as photo uploading, dynamic search capabilities, and product categorization culminates in a superlative user experience, elevating the website to the pinnacle of functionality and user satisfaction. 
